@@ -1,14 +1,15 @@
 body{
-    background-image: url(https://i.pinimg.com/736x/b1/83/5c/b1835c6acdc8a7919136e1847abaceac.jpg);
+    background-image: url(https://i.pinimg.com/564x/f5/be/dd/f5bedd0340a56a8c78a6c1e0b4a0aec2.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 h1{
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Roboto', cursive;
+    color: white;
 }
 h2{
-    font-family: 'Lobster Two', cursive;
+    font-family: 'Bold', cursive;
     letter-spacing: 1px;
     text-transform: uppercase;
     text-align: center;
